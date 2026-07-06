@@ -2,6 +2,10 @@
 <img src=https://file.garden/aeWHuH8drAn4J5-A/Untitled113_20260705221833.png>
   </p>
 
+<p align=center>
+  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736C98)
+</p>
+
 <div align=center>
 <img src=https://file.garden/aeWHuH8drAn4J5-A/ezgif-85475a416c5da1c4.png>
   </div>
