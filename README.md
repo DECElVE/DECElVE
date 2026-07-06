@@ -3,7 +3,8 @@
   </p>
 
 <p align=center>
-  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736C98)
+  <img src=![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736C98)>
+
 </p>
 
 <div align=center>
