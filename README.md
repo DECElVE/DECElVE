@@ -16,7 +16,7 @@
 
   **atlas** ou *friday*
 
-  [rentry]() . [ata]()
+  [rentry]() . [ata](https://escap-ism.atabook.org)
 </div>
 
 <p align=center>
