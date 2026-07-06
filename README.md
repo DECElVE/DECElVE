@@ -4,7 +4,7 @@
 
 <div align=center>
 
-  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98)
+  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98&label=phighters)
 </div>
 
 <div align=center>
