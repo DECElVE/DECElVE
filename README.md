@@ -16,7 +16,7 @@
 
   **atlas** ou *friday*
 
-  [rentry]() ᯓ★ [ata](https://escap-ism.atabook.org)
+  [rentry](https://rentry.co/GUNSLlNGERS) ᯓ★ [ata](https://escap-ism.atabook.org)
 </div>
 
 <p align=center>
