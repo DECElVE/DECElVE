@@ -7,3 +7,7 @@
   **DECEIVE** ⟡ To intentionally cause someone to believe something that is false, often for personal gain.
   
   </div>
+
+<p align=center>
+<img src=https://file.garden/aeWHuH8drAn4J5-A/IMG_6058.png>
+</p>
