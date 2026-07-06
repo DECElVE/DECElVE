@@ -15,6 +15,7 @@
 <div align=center>
 
   **atlas** ou *friday*
+
   [rentry]() . [ata]()
 </div>
 
