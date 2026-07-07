@@ -4,7 +4,7 @@
 
 <div align=center>
 
-  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98&label=blood-is-fuel)
+  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98&label=blood_is_fuel)
 </div>
 
 <div align=center>
