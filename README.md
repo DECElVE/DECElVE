@@ -1,7 +1,3 @@
-<p align=center>
-<img src=https://file.garden/aeWHuH8drAn4J5-A/Untitled113_20260705221833.png>
-  </p>
-
 <div align=center>
 
   ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98&label=blood_is_fuel)
@@ -18,7 +14,3 @@
 
   [rentry](https://rentry.co/frlday) ᯓ★ [ata](https://escap-ism.atabook.org)
 </div>
-
-<p align=center>
-<img src=https://file.garden/aeWHuH8drAn4J5-A/IMG_6058.png>
-</p>
