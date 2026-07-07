@@ -1,8 +1,11 @@
-![cred to 799cd0 on pin](https://file.garden/aeWHuH8drAn4J5-A/IMG_6079.jpeg)
+<div align=center>
+
+  ![cred to 799cd0 on pin](https://file.garden/aeWHuH8drAn4J5-A/IMG_6079.jpeg)
+</div>
 
 <div align=center>
 
-  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=736c98&label=blood_is_fuel)
+  ![](https://komarev.com/ghpvc/?username=DECElVE&style=plastic&color=871713&label=blood_is_fuel)
 </div>
 
 <div align=center>
