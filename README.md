@@ -7,3 +7,7 @@ hi i'm friday
 
   ok bye
 </div>
+
+<p align=center>
+<img src=https://file.garden/aeWHuH8drAn4J5-A/Untitled144_20260722203806.png>
+</p>
