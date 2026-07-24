@@ -11,3 +11,7 @@ hi i'm friday
 <p align=center>
 <img src=https://file.garden/aeWHuH8drAn4J5-A/Untitled144_20260722203806.png>
 </p>
+
+<div align=center>
+i might rework my github layout idk idgaf
+</div>
